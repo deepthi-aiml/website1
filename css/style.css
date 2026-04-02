@@ -589,7 +589,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     gap: 3rem;
-    background: rgb(231, 227, 227);
+    background: rgb(217, 217, 217);
     border-radius: 28px;
     padding: 2rem;
     box-shadow: 0 10px 20px rgba(0,0,0,0.05);
