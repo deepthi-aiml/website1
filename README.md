@@ -139,11 +139,8 @@ lankadrive-project/
 <img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/0b79efbe-2c46-49dc-880d-5223687a0387" />
 <img width="1899" height="919" alt="image" src="https://github.com/user-attachments/assets/83cc9808-35ae-4835-9fec-beec69c01ad6" />
 
-
-
-
-
-
+## Demo Link
+Github Pages: https://deepthi-aiml.github.io/website1/index.html
 
 ## Credits
 
