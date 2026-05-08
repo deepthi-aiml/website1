@@ -127,6 +127,22 @@ lankadrive-project/
 - ✅ Consistent UI/UX design patterns
 
 ## Screenshots
+<img width="1905" height="916" alt="image" src="https://github.com/user-attachments/assets/7be41cdb-187c-443b-b367-ca832bc2c772" />
+<img width="1894" height="910" alt="image" src="https://github.com/user-attachments/assets/ba88765c-f97a-403c-8eac-3568b31f51ac" />
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/c5d6d031-b206-46b7-8ee6-1c253f1e8409" />
+<img width="1896" height="934" alt="image" src="https://github.com/user-attachments/assets/83565eee-0187-4a49-87c1-c3b836a5dd8e" />
+<img width="1898" height="918" alt="image" src="https://github.com/user-attachments/assets/8def2e33-7019-4dfb-94a3-2edaffd55114" />
+<img width="1892" height="908" alt="image" src="https://github.com/user-attachments/assets/ee0ccecb-4872-4b93-b760-c4c96dc260df" />
+<img width="1883" height="930" alt="image" src="https://github.com/user-attachments/assets/cb91a6bf-1af6-4e98-a49a-80cf81899241" />
+<img width="1904" height="915" alt="image" src="https://github.com/user-attachments/assets/83a45c73-7ca6-4bdd-ada4-d3f4662f6222" />
+<img width="1901" height="904" alt="image" src="https://github.com/user-attachments/assets/7d1ec847-dc14-47a7-82f3-1da7f65068b7" />
+<img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/0b79efbe-2c46-49dc-880d-5223687a0387" />
+<img width="1899" height="919" alt="image" src="https://github.com/user-attachments/assets/83cc9808-35ae-4835-9fec-beec69c01ad6" />
+
+
+
+
+
 
 
 ## Credits
